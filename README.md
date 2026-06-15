@@ -37,11 +37,11 @@ Tools
 
 🚀 Projects
 
-Rural Land Information Platform
+Airbnb Full-Stack Clone  |  MongoDB | Express.js | Node.js | JWT 
 
-A simple web platform designed to help rural users explore and inquire about available land properties with an easy-to-use interface.
+Built a full-stack property rental web application replicating core Airbnb functionality, with user authentication, listing management, and booking workflows.
 
-Street Dog Vaccination Tracking System
+Street Dog Vaccination Tracking System |  MongoDB | Express.js | React.js | Node.js | QR Code | OpenStreetMap
 
 A web-based solution for tracking vaccination records of street dogs, helping NGOs and veterinarians manage rabies vaccination data efficiently.
 
